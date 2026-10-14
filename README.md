@@ -9,9 +9,8 @@
 **Status:** Live in production, serving multiple businesses (restaurants, pharmacies and retail shops)
 
 > [!NOTE]
-> **This repository is a case study, not the source code.** The product is proprietary software owned by my
-> employer. Everything here (architecture, decisions, incidents and lessons) is described in my own words. The
-> code samples are **simplified illustrations written for this document**, not excerpts from the real
+> **This repository is a case study, not the source code.** 
+> The code samples are **simplified illustrations written for this document**, not excerpts from the real
 > codebase. Company names, client names, endpoints, credentials and customer data are deliberately left out.
 
 ---
